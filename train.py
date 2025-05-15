@@ -1,1 +1,1 @@
-Print('Train deep learning model')
+Print('Train regression learning model')
